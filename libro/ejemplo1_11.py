@@ -1,0 +1,5 @@
+A = int(input("Numero:"))
+B = int(input("Numero:"))
+C = int(input("Numero:"))
+D = int(input("Numero:"))
+print(f"{ D }, { C }, { B }, { A }")
